@@ -1,6 +1,7 @@
 <!--# Capteur de pollution atmosphérique -->
 <!--$ Arduino-->
 <!--$ Freecad-->
+<!--+ 2019-2020-->
 <!--% Un projet pour un capteur de pollution atmosphérique. Il indique si un certain nombre de particules fines dépasse la norme. -->
 
 # Capteur de pollution atmosphérique
